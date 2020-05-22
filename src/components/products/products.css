@@ -1,0 +1,32 @@
+.fixed{
+    border: solid blue 2px;
+}
+.ratting{
+    border: solid violet 2px;
+}
+.products{
+ display: flex;
+ justify-content: space-around;
+}
+.product{
+    width: 300px;
+}
+.comment{
+    border: solid burlywood 2px;
+    padding: 5px;
+    border-radius: 25px;
+    width: 400px;
+    margin-left: 500px;
+}
+.comment > span{
+    margin-left: 3px;
+}
+.idClient{
+    border: solid cadetblue 1px;
+}
+.text{
+    border: solid cadetblue 1px;
+}
+.ratting{
+    border: solid gold 1px;
+}
